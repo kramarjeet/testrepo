@@ -3,4 +3,4 @@ rwer
 qwe
 q
 qg
-change from remote repo
+change from github repo
